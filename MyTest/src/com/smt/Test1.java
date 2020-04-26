@@ -7,7 +7,7 @@ public class Test1 {
         System.out.println("王朝马汉");
     }
 
-    public void fun1() {
+    public void fun2() {
 
     }
 }
