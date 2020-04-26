@@ -10,4 +10,8 @@ public class Test1 {
     public void fun2() {
 
     }
+
+    public static String fun6() {
+        return "111";
+    }
 }
